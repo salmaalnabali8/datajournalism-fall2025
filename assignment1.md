@@ -1,5 +1,5 @@
-# Assignment 1: Police in Alaska Article
-https://www.adn.com/alaska-news/lawless/2019/05/16/lawless-one-in-three-alaska-villages-have-no-local-police/
+# Assignment 1: [Police in Alaska Article](https://www.adn.com/alaska-news/lawless/2019/05/16/lawless-one-in-three-alaska-villages-have-no-local-police/)
+
 
 ### Clarity and Accuracy
 The central insight of the article was the awful state of Alaska's public safety and the lack of funding for law enforcement for native communities. It was in the headline but I did not fully understand until I read the first paraghraph. The headline was "Lawless: One in three Alaska villages have no local police," which at first made me assume that it's extremely safe so there's no need for law enforcement to be present until I read more and realized how different the actual story was, which is why I would rate the clarity a 4/5.
@@ -17,3 +17,4 @@ For both type and color I would give this a 3 because it all looked cohesive and
 
 ### Creativity
 I would rate the piece a 4 on creativity because it included multiple images of the relevant subjects, specifically the main police officer being interviewed in the story Annie Reed and other visuals of the population and city. It helped by giving faces to the subjects of the story and adding some creativity but it also wasn't essential in explaining the central insight. 
+
