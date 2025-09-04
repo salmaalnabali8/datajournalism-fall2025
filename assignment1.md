@@ -18,3 +18,7 @@ For both type and color I would give this a 3 because it all looked cohesive and
 ### Creativity
 I would rate the piece a 4 on creativity because it included multiple images of the relevant subjects, specifically the main police officer being interviewed in the story Annie Reed and other visuals of the population and city. It helped by giving faces to the subjects of the story and adding some creativity but it also wasn't essential in explaining the central insight. 
 
+
+
+##  Short Pitch
+I want to research how the price of coffee is influenced by political and economic factors such as inflation and tarrifs, especially in the current political climate which is very unstable and hectic currently. I feel like not many people care about politics unless it personally affects them and the average American is not up to date on all political and economic news. Coffee is something very simple and trivial but is still one thing that most if not all people have in common, everyone drinks coffee. Showing the relationship between those two things can simplify large concepts to people and show how detrimental the impacts of changes in the economic and political state have on people's everyday lives, something as simple as the price of their daily morning coffee. I would compile data through cross-examining menus of different coffee shops through the years and see the price differences. I could also interview coffee shop owners and regular customers to get different perspectives of people who are impacted by this directly. 
