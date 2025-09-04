@@ -11,7 +11,7 @@ conduct data and in a differnt article that they have linked, they explain how t
 
 
 ### Quality
-I would rate the quality of this article a 4, it was overall very insightful and it is clear that a lot of work was put into it. The thing that made it most valuable was the personal anectodes and experience of cops and civilians in Alaska who this issue affects firsthand. Improvements could be made by adding more data visuaization because it felt limited with only one graph.
+I would rate the quality of this article a 4, it was overall very insightful and it is clear that a lot of work was put into it. The thing that made it most valuable was the personal anectodes and experience of cops and civilians in Alaska who this issue affects firsthand. Improvements could be made by adding more data visualization because it felt limited with only one graph.
 For both type and color I would give this a 3 because it all looked cohesive and understandable but they didn't really put much effort or thought into the way they employed type and color. Having the dots be red was helpful in making it vibrant and bolding the town of Kiana to emphasize it was also good, otherwise it felt pretty bland.
 
 
