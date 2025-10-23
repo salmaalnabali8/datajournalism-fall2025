@@ -1,0 +1,3 @@
+# Extra Credit Assignment
+### [Link to Data Visualization](https://www.datawrapper.de/_/ME0h3/)
+### This chart was aimed at analyzing the location of WMATA metro stations in the DC, Maryland, Virginia area relative to the wealth demographic of each city. I wanted to examine if there was a correlation between the income demographic of each city and how accessible metro transit in it was. After completing my scatterplot, I realized that no correlation was found. However, the fact that wealth is not tied to metro access was very interesting to me. It made me wonder, is there anything other than wealth that affects different areas' access to transit in the DMV region? 
