@@ -15,7 +15,6 @@ If we had more time for this project, we would have expanded the work into a ful
 <img width="677" height="491" alt="Eliminated Bus Stops Following the Launch of The Better Bus Network (1)" src="https://github.com/user-attachments/assets/cf3344ba-a21e-404f-98de-0a621afa3cc4" />
 
 ### Data Visualization #2
-#### [Link to interactive chart on Datawrapper](https://www.datawrapper.de/_/IcolN/<img) 
-
+#### [Link to interactive chart on Datawrapper](https://www.datawrapper.de/_/IcolN/)
 
 <img width="677" height="491" alt="Screenshot 2025-12-11 at 11 17 56 AM" src="https://github.com/user-attachments/assets/d4018641-175b-4783-9bd5-f22a0a797d07" />
